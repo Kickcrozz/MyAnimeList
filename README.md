@@ -10,11 +10,12 @@ Las imagenes fueron sacadas de la página "Wallpaper Flare", todo los recursos u
 
 -- Intrucciones de uso --
 
-1. Descargue la aplicación en <code> (puede descargarse mediante archivo comprimido)
+1. Descargue la aplicación en la pestaña "code" (puede descargarse mediante archivo comprimido)
 2. Descomprima la aplicación en un ambiente seguro
 3. Abra la carpeta del proyecto mediante "Visual Studio Code"
 4. En una terminal de Visual Studio, ejecute los siguientes comandos:
    * npm install
+   * npm install -D vite
    * npm run dev
 5. Haga click en el enlace proporcionado con <ctrl + shift click>
 6. Se le abrirá una ventana en su navegador, disfrute y comience a usar MyAnimeList
